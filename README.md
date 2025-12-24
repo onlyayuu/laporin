@@ -90,7 +90,3 @@ Proyek ini dikembangkan sebagai bagian dari **Ujian Kompetensi Keahlian (UKK)** 
 ---
 **⭐ Jika proyek ini membantu, jangan lupa beri star!**  
 **🐛 Untuk masalah/bug, silakan buka issue baru.**
-
----
-
-**#UKK #PengaduanSarpras #SistemInformasi #WebDevelopment #RPL**
